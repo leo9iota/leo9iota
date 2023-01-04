@@ -24,7 +24,7 @@
 
 - [Portfolio website (unfinished)](https://github.com/leo9iota)
 - [Responsive website for an example zoo](https://github.com/leo9iota/floppa-zoo-zurich)
-- [Image manipulation program (unfinished)](https://github.com/leo9iota)
+- [Picture manipulation program (unfinished)](https://github.com/leo9iota)
 - [Shell password manager (unfinished)](https://github.com/leo9iota/pwmanager)
 - [Shell CLI game (finished)](https://github.com/leo9iota)
 - [Dotfiles for my Arch Linux environment (unfinished)](https://github.com/leo9iota/dotfiles)
