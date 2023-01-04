@@ -19,7 +19,7 @@
 ### ⚙️ My Projects
 
 - [Portfolio website (unfinished)](https://github.com/leo9iota)
-- [Static website for a zoo (finished)](https://github.com/leo9iota)
+- [Static website for an example zoo (finished)](https://github.com/leo9iota/floppa-zoo-zurich)
 - [Image manipulation program (unfinished)](https://github.com/leo9iota)
 - [Shell password manager (unfinished)](https://github.com/leo9iota/pwmanager)
 - [Shell CLI game (finished)](https://github.com/leo9iota)
