@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :hammer_and_wrench: Languages and Tools
+### 👤 About Me
+- 🔭 I’m currently working on my ecommerce website
+- 🌱 I’m currently learning spring boot and react.js
+
+### 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -19,7 +23,7 @@
 ### ⚙️ My Projects
 
 - [Portfolio website (unfinished)](https://github.com/leo9iota)
-- [Static website for an example zoo (finished)](https://github.com/leo9iota/floppa-zoo-zurich)
+- [Responsive website for an example zoo](https://github.com/leo9iota/floppa-zoo-zurich)
 - [Image manipulation program (unfinished)](https://github.com/leo9iota)
 - [Shell password manager (unfinished)](https://github.com/leo9iota/pwmanager)
 - [Shell CLI game (finished)](https://github.com/leo9iota)
