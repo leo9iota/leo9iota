@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my ecommerce website
 - 🌱 I’m currently learning spring boot and react.js
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
