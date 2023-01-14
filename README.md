@@ -22,7 +22,7 @@
 
 ### ⚙️ My Projects
 
-- [Portfolio website (unfinished)](https://github.com/leo9iota)
+- [Portfolio website (unfinished)](https://github.com/leo9iota/portfolio-website)
 - [Responsive website for an example zoo](https://github.com/leo9iota/floppa-zoo-zurich)
 - [Picture manipulation program (unfinished)](https://github.com/leo9iota/picture-manipulation)
 - [Password manager (unfinished)](https://github.com/leo9iota/pwmanager)
