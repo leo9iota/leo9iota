@@ -4,8 +4,8 @@
 </h1>
 
 ### 👤 About Me
-- 🔭 I’m currently working on my ecommerce website
-- 🌱 I’m currently learning spring boot and react.js
+- 🔭 I’m currently learning React and Nextjs
+- 🌱 I use Arch btw
 
 ### 🛠️ Tech Stack
 
