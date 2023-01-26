@@ -4,8 +4,8 @@
 </h1>
 
 ### 👤 About Me
-- 🔭 I’m currently learning React and Nextjs
-- 🌱 I use Arch btw
+- 🔭 What I'm learning at the moment: React
+- 🌱 My prefered OS: Arch
 
 ### 🛠️ Tech Stack
 
