@@ -4,10 +4,11 @@
       <h1 style="list-style-type: none;">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
         <span>Hello There!</span>
+        <img src="images/thin-gradient-bar.png" />
       </h1>
     </summary>
   </ul>
-  <img src="images/thin-gradient-bar.png" />
+
 </div>
 
 
