@@ -1,10 +1,10 @@
 <div>
-    <summary>
+    <main>
       <h1 style="list-style-type: none; display: inline-block;">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
         <span>Hello There!</span>
       </h1>
-    </summary>
+    </main>
 </div>
 
 
