@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-![Gradient Bar](images/gradient-bar.png)
+![Gradient Bar](images/thin-gradient-bar.png)
 
 ## 🗨️ About Me
 
