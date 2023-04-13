@@ -7,9 +7,9 @@
       </h1>
     </summary>
   </ul>
+  <img src="images/thin-gradient-bar.png" />
 </div>
 
-![Gradient Bar](images/thin-gradient-bar.png)
 
 ## 🗨️ About Me
 
