@@ -8,16 +8,33 @@
       </h1>
     </summary>
   </ul>
-
 </div>
 
-
-## 🗨️ About Me
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="list-style-type: none;">
+        <span>🗨️ About Me</span>
+        <img src="images/thin-gradient-bar.png" />
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 - 💡 I'm learning Lua at the moment
 - 💻 My prefered OS is Arch with AwesomeWM
 
-## 🛠️ Languages, Libraries and Frameworks
+
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="list-style-type: none;">
+        <span>🛠️ Languages, Libraries and Frameworks</span>
+        <img src="images/thin-gradient-bar.png" />
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -32,7 +49,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-## ⚙️ My Projects
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="list-style-type: none;">
+        <span>⚙️ My Projects</span>
+        <img src="images/thin-gradient-bar.png" />
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 | Project | Status |
 | --- | --- |
