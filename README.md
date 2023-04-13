@@ -3,6 +3,8 @@
   Hello There! 
 </h1>
 
+![Gradient Bar](images/gradient-bar.png)
+
 ## 🗨️ About Me
 
 - 💡 I'm learning Lua at the moment
