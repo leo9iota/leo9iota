@@ -1,6 +1,6 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <span style="font-weight:700; font-size:40px">Hello There!</span>
+  <span style="font-size:40px">Hello There!</span>
 </h3>
 
 ![Gradient Bar](images/gradient-bar.png)
