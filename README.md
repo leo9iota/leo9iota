@@ -22,7 +22,7 @@
 
 - 📖 I'm learning React at the moment
 - 💻 My prefered OS is Arch
-- 💡 Interested in Stable Diffusion
+- 💡 Interested in Cyber Security
 
 <div id="user-content-toc">
   <ul>
