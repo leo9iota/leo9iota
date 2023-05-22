@@ -20,15 +20,15 @@
   </ul>
 </div>
 
-- 💡 I'm learning Lua at the moment
-- 💻 My prefered OS is Arch with AwesomeWM
-
+- 📖 I'm learning React at the moment
+- 💻 My prefered OS is Arch
+- 💡 Interested in Stable Diffusion
 
 <div id="user-content-toc">
   <ul>
     <summary>
       <h2 style="list-style-type: none;">
-        <span>🛠️ Languages, Libraries and Frameworks</span>
+        <span>🛠️ Technologies</span>
         <img src="images/thin-gradient-bar.png" />
       </h2>
     </summary>
