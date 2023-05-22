@@ -58,14 +58,15 @@
   </ul>
 </div>
 
-| Project | Status |
+| Project | Description | Status |
 | --- | --- |
-| [Responsive website for a zoo](https://github.com/leo9iota/floppa-zoo-zurich) | Finished |
-| [Dotfiles for my Linux environment](https://github.com/leo9iota/dotfiles)| Work in progress |
-| [Pong clone](https://github.com/leo9iota/pong) | Work in progress |
-| [CLI games](https://github.com/leo9iota/cli-games) | Work in progress |
-| [Portfolio website](https://github.com/leo9iota/portfolio-website) | Unfinished |
-| [Password manager](https://github.com/leo9iota/pwmanager) | Unfinished |
+| [Responsive Website](https://github.com/leo9iota/floppa-zoo-zurich) | A mobile responsive website for the Zurich Zoo | 🟢 Finished |
+| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Configs for my Linux environment | 🟡 Work in progress |
+| [Platformer](https://github.com/leo9iota/platformer) | Generic platformer made with Lua and the LÖVE 2D framework | 🟡 Work in progress |
+| [Pong Clone](https://github.com/leo9iota/pong) | Pong clone made with Lua and the LÖVE 2D framework | 🟡 Work in progress |
+| [CLI Games](https://github.com/leo9iota/cli-games) |  Collection of CLI games written in Bash | 🟡 Work in progress |
+| [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
+| [Shell Password Manager](https://github.com/leo9iota/pwmanager) | Secure password manager written in Bash | 🔴 Unfinished |
 
 
 
