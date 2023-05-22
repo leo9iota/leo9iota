@@ -65,7 +65,6 @@
 | [Pong clone](https://github.com/leo9iota/pong) | Work in progress |
 | [CLI games](https://github.com/leo9iota/cli-games) | Work in progress |
 | [Portfolio website](https://github.com/leo9iota/portfolio-website) | Unfinished |
-| [Picture manipulation program](https://github.com/leo9iota/picture-manipulation) | Unfinished |
 | [Password manager](https://github.com/leo9iota/pwmanager) | Unfinished |
 
 
