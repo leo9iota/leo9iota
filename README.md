@@ -2,7 +2,7 @@
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
-        <img src="img/waving.gif" width="40px"/>
+        <img src="img/waving.gif?raw=true" width="40px"/>
         <span>Hello There!</span>
       </h1>
     </summary>
