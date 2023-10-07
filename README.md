@@ -1,10 +1,8 @@
-<!-- Test Commit -->
-
 <div id="user-content-toc">
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+        <img src="img/waving.gif" width="40px"/>
         <span>Hello There!</span>
       </h1>
     </summary>
@@ -16,7 +14,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🗨️ About Me</span>
-        <img src="images/thin-gradient-bar.png" />
+        <img src="img/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -31,7 +29,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🛠️ Technologies</span>
-        <img src="images/thin-gradient-bar.png" />
+        <img src="img/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -54,7 +52,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>⚙️ My Projects</span>
-        <img src="images/thin-gradient-bar.png" />
+        <img src="img/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
