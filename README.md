@@ -37,13 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,lua,c" />
+    <img src="https://skillicons.dev/icons?i=ts,go,lua,nodejs,react,nextjs,mysql,linux,neovim" />
   </a>
 </p>
 
