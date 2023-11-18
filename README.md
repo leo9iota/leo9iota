@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,lua,nodejs,react,nextjs,mysql,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,go,c,lua,mysql,linux,neovim" />
   </a>
 </p>
 
@@ -54,13 +54,9 @@
 
 | Project | Description | Status |
 | --- | --- | --- |
-| [Example Website](https://floppa-zoo.pages.dev/) | Example website for the Zurich Zoo | 🟢 Finished |
-| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Configs for my Linux environment | 🟡 Work in progress |
-| [Platformer](https://github.com/leo9iota/platformer) | Generic platformer made with Lua and the LÖVE 2D framework | 🟡 Work in progress |
-| [Pong Clone](https://github.com/leo9iota/pong) | Pong clone made with Lua and the LÖVE 2D framework | 🟡 Work in progress |
-| [CLI Games](https://github.com/leo9iota/cli-games) |  Collection of small CLI games written in Bash | 🟡 Work in progress |
+| [Floppa Zoo](https://github.com/leo9iota/floppa-zoo) | Floppa Zoo example website for the Zurich Zoo | 🟢 Finished |
+| [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
+| [Retro Games](https://github.com/leo9iota/retro-games) | Classic retro games written in JS, HTML & CSS | 🟡 In progress |
+| [Platformer](https://github.com/leo9iota/platformer) | Classic platformer game written in Lua with the LOVE2D framework | 🟡 In progress |
+| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 In progress |
 | [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
-| [Shell Password Manager](https://github.com/leo9iota/pwmanager) | Secure password manager written in Bash | 🔴 Unfinished |
-
-
-
