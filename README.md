@@ -53,47 +53,14 @@
 </div>
 
 <div align="center">
-  <table>
-      <thead>
-          <tr>
-              <th style="text-align: left;">Project</th>
-              <th style="text-align: left;">Description</th>
-              <th style="text-align: left;">Status</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/floppa-zoo">Floppa Zoo</a></td>
-              <td style="text-align: left;">Floppa Zoo example website for the Zurich Zoo</td>
-              <td style="text-align: left;">🟢 Finished</td>
-          </tr>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/pong">Pong</a></td>
-              <td style="text-align: left;">Classic pong game written in Lua with the LOVE2D framework</td>
-              <td style="text-align: left;">🟢 Finished</td>
-          </tr>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/retro-games">Retro Games</a></td>
-              <td style="text-align: left;">Classic retro games written in JS, HTML & CSS</td>
-              <td style="text-align: left;">🟡 In progress</td>
-          </tr>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/platformer">Platformer</a></td>
-              <td style="text-align: left;">Classic platformer game written in Lua with the LOVE2D framework</td>
-              <td style="text-align: left;">🟡 In progress</td>
-          </tr>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/dotfiles">Dotfiles</a></td>
-              <td style="text-align: left;">Dotfiles for my Linux environment</td>
-              <td style="text-align: left;">🟡 In progress</td>
-          </tr>
-          <tr>
-              <td style="text-align: left;"><a href="https://github.com/leo9iota/portfolio">Portfolio Website</a></td>
-              <td style="text-align: left;">Personal portfolio website</td>
-              <td style="text-align: left;">🔴 Unfinished</td>
-          </tr>
-      </tbody>
-  </table>
+  | Project | Description | Status |
+  |:--------|:------------|:-------|
+  | [Floppa Zoo](https://github.com/leo9iota/floppa-zoo) | Floppa Zoo example website for the Zurich Zoo | 🟢 Finished |
+  | [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
+  | [Retro Games](https://github.com/leo9iota/retro-games) | Classic retro games written in JS, HTML & CSS | 🟡 In progress |
+  | [Platformer](https://github.com/leo9iota/platformer) | Classic platformer game written in Lua with the LOVE2D framework | 🟡 In progress |
+  | [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 In progress |
+  | [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
 </div>
 
 
