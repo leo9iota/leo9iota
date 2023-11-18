@@ -52,47 +52,47 @@
   </ul>
 </div>
 
-<center>
-<table>
-    <thead>
-        <tr>
-            <th>Project</th>
-            <th>Description</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/leo9iota/floppa-zoo">Floppa Zoo</a></td>
-            <td>Floppa Zoo example website for the Zurich Zoo</td>
-            <td>🟢 Finished</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/leo9iota/pong">Pong</a></td>
-            <td>Classic pong game written in Lua with the LOVE2D framework</td>
-            <td>🟢 Finished</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/leo9iota/retro-games">Retro Games</a></td>
-            <td>Classic retro games written in JS, HTML & CSS</td>
-            <td>🟡 In progress</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/leo9iota/platformer">Platformer</a></td>
-            <td>Classic platformer game written in Lua with the LOVE2D framework</td>
-            <td>🟡 In progress</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/leo9iota/dotfiles">Dotfiles</a></td>
-            <td>Dotfiles for my Linux environment</td>
-            <td>🟡 In progress</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/leo9iota/portfolio">Portfolio Website</a></td>
-            <td>Personal portfolio website</td>
-            <td>🔴 Unfinished</td>
-        </tr>
-    </tbody>
-</table>
-</center>
+<div align="center">
+  <table>
+      <thead>
+          <tr>
+              <th>Project</th>
+              <th>Description</th>
+              <th>Status</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td><a href="https://github.com/leo9iota/floppa-zoo">Floppa Zoo</a></td>
+              <td>Floppa Zoo example website for the Zurich Zoo</td>
+              <td>🟢 Finished</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/leo9iota/pong">Pong</a></td>
+              <td>Classic pong game written in Lua with the LOVE2D framework</td>
+              <td>🟢 Finished</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/leo9iota/retro-games">Retro Games</a></td>
+              <td>Classic retro games written in JS, HTML & CSS</td>
+              <td>🟡 In progress</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/leo9iota/platformer">Platformer</a></td>
+              <td>Classic platformer game written in Lua with the LOVE2D framework</td>
+              <td>🟡 In progress</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/leo9iota/dotfiles">Dotfiles</a></td>
+              <td>Dotfiles for my Linux environment</td>
+              <td>🟡 In progress</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/leo9iota/portfolio">Portfolio Website</a></td>
+              <td>Personal portfolio website</td>
+              <td>🔴 Unfinished</td>
+          </tr>
+      </tbody>
+  </table>
+</div>
 
