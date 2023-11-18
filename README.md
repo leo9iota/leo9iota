@@ -35,11 +35,7 @@
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,go,c,lua,mysql,linux,neovim" />
-  </a>
-</p>
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,go,c,lua,mysql,linux,neovim)
 
 <div id="user-content-toc">
   <ul>
