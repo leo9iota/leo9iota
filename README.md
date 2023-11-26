@@ -59,7 +59,7 @@
 | [Floppa Zoo](https://github.com/leo9iota/floppa-zoo) | Floppa Zoo example website for the Zurich Zoo | 🟢 Finished |
 | [M294](https://github.com/leo9iota/m294) | My implementation of the M294 course | 🟢 Finished |
 | [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
-| [Retro Games](https://github.com/leo9iota/classic-games) | Classic games written in JS, HTML & CSS | 🟡 In progress |
+| [Classic Games](https://github.com/leo9iota/classic-games) | Classic games written in JS, HTML & CSS | 🟡 In progress |
 | [Platformer](https://github.com/leo9iota/platformer) | Classic platformer game written in Lua with the LOVE2D framework | 🟡 In progress |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 In progress |
 | [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
