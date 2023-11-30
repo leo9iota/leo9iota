@@ -56,6 +56,7 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a clean and modern UI made with React and Material UI | 🟢 Finished |
 | [Floppa Zoo](https://github.com/leo9iota/floppa-zoo) | Floppa Zoo example website for the Zurich Zoo | 🟢 Finished |
 | [M294](https://github.com/leo9iota/m294) | My implementation of the M294 course | 🟢 Finished |
 | [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
