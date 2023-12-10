@@ -61,6 +61,7 @@
 | [M294](https://github.com/leo9iota/m294) | My implementation of the M294 course | 🟢 Finished |
 | [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
 | [Classic Games](https://github.com/leo9iota/classic-games) | Classic games written in JS, HTML & CSS | 🟡 In progress |
+| [Contacts Manager](https://github.com/leo9iota/contacts-manager) | A web app to manage your personal contacts | 🟡 In progress |
 | [Platformer](https://github.com/leo9iota/platformer) | Classic platformer game written in Lua with the LOVE2D framework | 🟡 In progress |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 In progress |
 | [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
