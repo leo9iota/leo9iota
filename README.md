@@ -56,15 +56,11 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a clean and modern UI made with React and Material UI | 🟢 Finished |
-| [Floppa Zoo](https://github.com/leo9iota/floppa-zoo) | Floppa Zoo example website for the Zurich Zoo | 🟢 Finished |
-| [M294](https://github.com/leo9iota/m294) | My implementation of the M294 course | 🟢 Finished |
-| [Pong](https://github.com/leo9iota/pong) | Classic pong game written in Lua with the LOVE2D framework | 🟢 Finished |
-| [Classic Games](https://github.com/leo9iota/classic-games) | Classic games written in JS, HTML & CSS | 🟡 In progress |
-| [Contacts Manager](https://github.com/leo9iota/contacts-manager) | A web app to manage your personal contacts | 🟡 In progress |
-| [Platformer](https://github.com/leo9iota/platformer) | Classic platformer game written in Lua with the LOVE2D framework | 🟡 In progress |
-| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 In progress |
-| [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 Unfinished |
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a clean and modern UI | 🟢 DONE |
+| [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game | 🟢 DONE |
+| [Platformer](https://github.com/leo9iota/platformer) | Clone of the classic Super Mario platformer game | 🟡 WIP |
+| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 WIP |
+| [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 TODO |
 
 </div>
 
