@@ -56,7 +56,7 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a clean and modern UI | 🟢 DONE |
+| [Weather App](https://github.com/leo9iota/weather-app) | Mobile responsive weather app with a clean and modern UI | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game | 🟢 DONE |
 | [Platformer](https://github.com/leo9iota/platformer) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 WIP |
