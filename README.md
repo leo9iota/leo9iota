@@ -1,13 +1,22 @@
+# Hello There!
+![waving](./img/waving.gif)
+
 <div id="user-content-toc">
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
         <img src="./img/waving.gif?raw=true" alt="waving" width="40px"/>
         <span>Hello There!</span>
+        
+# Hello There!
+![waving](./img/waving.gif)
       </h1>
     </summary>
   </ul>
 </div>
+
+# Hello There!
+![waving](./img/waving.gif)
 
 <div id="user-content-toc">
   <ul>
