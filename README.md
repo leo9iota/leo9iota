@@ -1,22 +1,13 @@
-# Hello There!
-![waving](./img/waving.gif)
-
 <div id="user-content-toc">
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
         <img src="./img/waving.gif?raw=true" alt="waving" width="40px"/>
         <span>Hello There!</span>
-        
-# Hello There!
-![waving](./img/waving.gif)
       </h1>
     </summary>
   </ul>
 </div>
-
-# Hello There!
-![waving](./img/waving.gif)
 
 <div id="user-content-toc">
   <ul>
@@ -29,8 +20,8 @@
   </ul>
 </div>
 
-- 📖 I'm learning React at the moment
-- 💻 My prefered OS is Arch
+- 📖 I'm learning Next.js at the moment
+- 💻 My preferred OS is Arch Linux (btw)
 - 💡 Interested in Cyber Security
 
 <div id="user-content-toc">
