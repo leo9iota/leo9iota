@@ -56,11 +56,11 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and responsive design | 🟡 RECODE |
+| [Portfolio Website](https://github.com/leo9iota/portfolio-v2) | Personal portfolio website | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game | 🟢 DONE |
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and responsive design | 🟡 RECODE |
 | [Platformer](https://github.com/leo9iota/platformer) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 WIP |
-| [Portfolio Website](https://github.com/leo9iota/portfolio) | Personal portfolio website | 🔴 TODO |
 
 </div>
 
