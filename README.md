@@ -58,6 +58,7 @@
 |:--------|:------------|:-------|
 | [portfolio](https://github.com/leo9iota/portfolio) | Portfolio website where I showcase the technologies I know | 🟢 DONE |
 | [pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
+| [space-defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
 | [weather-app](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE |
 | [darling-in-the-goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my Debian and Arch Linux environments | 🟡 WIP |
