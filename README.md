@@ -56,11 +56,11 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| [Portfolio](https://github.com/leo9iota/portfolio-v2) | Personal portfolio website | 🟢 DONE |
-| [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game | 🟢 DONE |
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and responsive design | 🟡 RECODE |
-| [Platformer](https://github.com/leo9iota/platformer) | Clone of the classic Super Mario platformer game | 🟡 WIP |
-| [Dotfiles](https://github.com/leo9iota/dotfiles)|  Dotfiles for my Linux environment | 🟡 WIP |
+| [portfolio](https://github.com/leo9iota/portfolio) | Portfolio website where I showcase the technologies I know | 🟢 DONE |
+| [pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
+| [weather-app](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE |
+| [darling-in-the-goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 WIP |
+| [dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my Debian and Arch Linux environments | 🟡 WIP |
 
 </div>
 
