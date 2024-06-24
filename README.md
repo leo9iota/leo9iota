@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,nodejs,threejs,tailwind,materialui,styledcomponents,vite&perline=10" />
   </a>
 </p>
