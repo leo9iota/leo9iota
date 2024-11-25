@@ -59,9 +59,9 @@
 | [Portfolio](https://github.com/leo9iota/portfolio) | Portfolio website where I showcase the technologies I know | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TYPESCRIPT |
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TS |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 RECODE IN GO |
-| [UI Components](https://github.com/leo9iota/ui-components) | Clone of the classic Super Mario platformer game | 🟡 WIP |
+| [UI Components](https://github.com/leo9iota/ui-components) | Small UI components that can be integrated into larger projects | 🟡 WIP |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my Debian and Arch Linux environments | 🔴 TODO |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the Advent of Code problems | 🔴 TODO |
 
