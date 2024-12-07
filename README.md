@@ -62,6 +62,7 @@
 | [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TS |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 RECODE IN GO |
 | [UI Components](https://github.com/leo9iota/ui-components) | Small UI components that can be integrated into larger projects | 🟡 WIP |
+| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Murderous Hack is a forum for discussing tech related topics | 🟡 WIP |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my development environments | 🔴 TODO |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the Advent of Code problems | 🔴 TODO |
 
