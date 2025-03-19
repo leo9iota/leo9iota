@@ -20,9 +20,9 @@
   </ul>
 </div>
 
-- 📖 I'm learning Vue and Nuxt at the moment
-- 💻 My preferred OS is Arch Linux (btw)
-- 💡 Interested in Cybersecurity
+- 📖 I'm learning Vue and Nuxt at the moment.
+- 💻 My preferred OS is Arch Linux (btw).
+- 💡 Interested in Cybersecurity and Systems Programming.
 
 <div id="user-content-toc">
   <ul>
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,react,nextjs,vue,nuxtjs,nodejs,threejs,tailwind,materialui,styledcomponents,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,react,nextjs,vue,nuxtjs,nodejs,threejs,tailwind,materialui,styledcomponents,vite,mariadb,postgresql&perline=10" />
   </a>
 </p>
 
@@ -59,13 +59,14 @@
 | [Portfolio](https://github.com/leo9iota/portfolio) | Portfolio website where I showcase the technologies I know | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
-| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Download utility for VueSchool to download courses for educational purposes | 🟢 DONE |
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TS |
-| [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 RECODE IN GO |
+| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool to get the latest courses | 🟢 DONE |
+| [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [UI Components](https://github.com/leo9iota/ui-components) | Small UI components that can be integrated into larger projects | 🟡 WIP |
 | [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Murderous Hack is a forum for discussing tech related topics | 🟡 WIP |
+| [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
+| [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the Advent of Code problems, each implemented in a different language | 🟡 WIP |
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TS |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my development environments | 🔴 TODO |
-| [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the Advent of Code problems | 🔴 TODO |
 
 </div>
 
