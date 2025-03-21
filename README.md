@@ -1,3 +1,4 @@
+<!-- Title -->
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -9,6 +10,7 @@
   </ul>
 </div>
 
+<!-- About Me -->
 <div id="user-content-toc">
   <ul>
     <summary>
@@ -22,13 +24,14 @@
 
 - 📖 I'm learning Vue and Nuxt at the moment.
 - 💻 My preferred OS is Arch Linux (btw).
-- 💡 Interested in Cybersecurity and Systems Programming.
+- 💡 Interested in cybersecurity and systems programming.
 
+<!-- Technologies -->
 <div id="user-content-toc">
   <ul>
     <summary>
       <h2 style="list-style-type: none;">
-        <span>🛠️ Technologies</span>
+        <span>✨ Technologies</span>
         <img src="./img/thin-gradient-bar.png" />
       </h2>
     </summary>
@@ -37,15 +40,34 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,react,nextjs,vue,nuxtjs,nodejs,threejs,tailwind,materialui,styledcomponents,vite,mariadb,postgresql&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,nodejs,bun,rust,go,c,cpp,holyc,zig,nim,java,python,lua,tailwindcss,shadcn,materialui,vite,pygame,playwright,drizzle,postgresql,mariadb,mongodb&perline=10" />
   </a>
 </p>
 
+<!-- Tools -->
 <div id="user-content-toc">
   <ul>
     <summary>
       <h2 style="list-style-type: none;">
-        <span>⚙️ My Projects</span>
+        <span>🛠️ Tools</span>
+        <img src="./img/thin-gradient-bar.png" />
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,debian,popos,ubuntu,kali,arch,nixos,windows,vscode,neovim,alacritty,webstorm,goland,datagrip,postman,obsidian,firefox,chatgpt&perline=10" />
+  </a>
+</p>
+
+<!-- Projects -->
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h2 style="list-style-type: none;">
+        <span>🏗️ My Projects</span>
         <img src="./img/thin-gradient-bar.png" />
       </h2>
     </summary>
@@ -56,16 +78,16 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| [Portfolio](https://github.com/leo9iota/portfolio) | Portfolio website where I showcase the technologies I know | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
-| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool to get the latest courses | 🟢 DONE |
+| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool | 🟢 DONE |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [UI Components](https://github.com/leo9iota/ui-components) | Small UI components that can be integrated into larger projects | 🟡 WIP |
-| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Murderous Hack is a forum for discussing tech related topics | 🟡 WIP |
+| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Tech forum for discussing tech related topics | 🟡 WIP |
 | [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
-| [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the Advent of Code problems, each implemented in a different language | 🟡 WIP |
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE IN TS |
+| [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the AOC problems implemented in different languages | 🟡 WIP |
+| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 RECODE |
+| [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🔴 TODO |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my development environments | 🔴 TODO |
 
 </div>
