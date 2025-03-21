@@ -16,7 +16,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🗨️ About Me</span>
-        <img src="./img/thin-gradient-bar.png" />
+        <img src="./images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -32,7 +32,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>✨ Technologies</span>
-        <img src="./img/thin-gradient-bar.png" />
+        <img src="./images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -50,7 +50,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🛠️ Tools</span>
-        <img src="./img/thin-gradient-bar.png" />
+        <img src="./images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -68,7 +68,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🏗️ My Projects</span>
-        <img src="./img/thin-gradient-bar.png" />
+        <img src="./images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
