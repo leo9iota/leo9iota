@@ -3,7 +3,7 @@
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
-        <img src="https://media.tenor.com/e1ptzT0C0x4AAAAi/hi.gif" alt="waving" width="40px"/>
+        <img src="./images/hi.gif" alt="waving" width="40px"/>
         <span>Hello There!</span>
       </h1>
     </summary>
