@@ -58,7 +58,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,debian,popos,ubuntu,kali,arch,nixos,windows,vscode,neovim,alacritty,webstorm,goland,datagrip,postman,obsidian,firefox,chatgpt&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,debian,popos,ubuntu,arch,nixos,windows,vscode,neovim,alacritty,bash,tmux,webstorm,goland,datagrip,postman,obsidian&perline=10" />
   </a>
 </p>
 
