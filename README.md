@@ -87,7 +87,7 @@
 | [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Tech forum for discussing tech related topics | 🟡 WIP |
 | [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
 | [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🟡 WIP |
-| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | 3D Tic-Tac-Toe game | 🟡 WIP |
+| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Netscan](https://github.com/leo9iota/netscan) | Utility for scanning networks by utilizing Nmap and Npcap | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🔴 TODO |
 | [Dotfiles](https://github.com/leo9iota/dotfiles)| Dotfiles for my development environments | 🔴 TODO |
