@@ -81,10 +81,11 @@
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
 | [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool | 🟢 DONE |
+| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Tech forum for discussing tech related topics | 🟡 WIP |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟡 WIP |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the AOC problems implemented in different languages | 🟡 WIP |
 | [UI Components](https://github.com/leo9iota/ui-components) | Custom UI components that can be integrated into larger projects | 🟡 WIP |
-| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | Tech forum for discussing tech related topics | 🟡 WIP |
+| [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
 | [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
