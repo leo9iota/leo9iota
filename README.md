@@ -40,7 +40,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,threejs,bun,rust,go,c,cpp,holyc,zig,nim,java,python,lua,tailwindcss,shadcn,materialui,vite,playwright,drizzle,supabase,postgresql,mariadb,astro&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,threejs,bun,rust,go,c,cpp,holyc,zig,nim,java,python,lua,fastapi,astro,tailwindcss,shadcn,vite,playwright,drizzle,supabase,postgresql,mariadb&perline=10" />
   </a>
 </p>
 
