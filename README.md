@@ -22,9 +22,10 @@
   </ul>
 </div>
 
-- 📖 I'm learning Vue and Nuxt at the moment.
-- 💻 My preferred OS is Arch Linux (btw).
+- 📖 Learning Nuxt and Go at the moment.
+- 🎮 Enjoying recreational programming, such as trying out esolangs.
 - 💡 Interested in cybersecurity and systems programming.
+- 💻 Preferred OS is NixOS.
 
 <!-- Technologies -->
 <div id="user-content-toc">
@@ -40,7 +41,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,vue,nuxtjs,threejs,bun,rust,go,c,cpp,holyc,zig,nim,java,python,lua,fastapi,astro,tailwindcss,shadcn,vite,playwright,drizzle,supabase,postgresql,mariadb&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,go,rust,c,cpp,java,python,react,nextjs,astro,vue,nuxt,bun,nodejs,fiber,fastapi,playwright,tailwindcss,shadcn,materialui,threejs,vite,drizzle,supabase,postgresql,mariadb,mongodb&perline=10" />
   </a>
 </p>
 
@@ -58,7 +59,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,cloudflare,popos,ubuntu,arch,nixos,windows,neovim,alacritty,bash,tmux,vscode,webstorm,goland,datagrip,postman,obsidian&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,webstorm,datagrip,alacritty,bash,tmux,postman,markdown,obsidian&perline=10" />
   </a>
 </p>
 
