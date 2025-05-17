@@ -90,8 +90,8 @@
 | [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
-| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux environment | 🟡 WIP |
-| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my W*ndows environment | 🟡 WIP |
+| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux environment | 🔴 TODO |
+| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my W*ndows environment | 🔴 TODO |
 | [Netscan](https://github.com/leo9iota/netscan) | Utility for scanning networks by utilizing Nmap and Npcap | 🔴 TODO |
 | [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🔴 TODO |
 
