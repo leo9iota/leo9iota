@@ -25,7 +25,6 @@
 - 📖 Learning Nuxt and Go at the moment.
 - 🎮 Enjoying recreational programming, such as trying out esolangs.
 - 💡 Interested in cybersecurity and systems programming.
-- 💻 Preferred OS is NixOS.
 
 <!-- Technologies -->
 <div id="user-content-toc">
