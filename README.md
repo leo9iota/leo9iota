@@ -25,6 +25,7 @@
 - 📖 Learning Nuxt and Go at the moment.
 - 🎮 Enjoying recreational programming, such as trying out esolangs.
 - 💡 Interested in cybersecurity and systems programming.
+- ❄️ NixOS enjoyer, but also really enjoy using Arch (btw).
 
 <!-- Technologies -->
 <div id="user-content-toc">
@@ -89,8 +90,8 @@
 | [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
-| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux environment | 🔴 TODO |
-| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my W*ndows environment | 🔴 TODO |
+| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux development environment | 🔴 TODO |
+| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my Windows development environment | 🔴 TODO |
 | [Netscan](https://github.com/leo9iota/netscan) | Utility for scanning networks by utilizing Nmap and Npcap | 🔴 TODO |
 | [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🔴 TODO |
 
