@@ -86,7 +86,7 @@
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the AOC problems implemented in different languages | 🟡 WIP |
 | [UI Components](https://github.com/leo9iota/ui-components) | Custom UI components that can be integrated into larger projects | 🟡 WIP |
 | [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
-| [ZLI](https://github.com/leo9iota/zli) | Cheatsheet and quick reference for ZLI modules | 🟡 WIP |
+| [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux environment | 🔴 TODO |
