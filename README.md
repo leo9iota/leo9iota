@@ -88,6 +88,7 @@
 | [UI Components](https://github.com/leo9iota/ui-components) | Custom UI components that can be integrated into larger projects | 🟡 WIP |
 | [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
 | [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
+| [Inure Bot](https://github.com/leo9iota/inure-bot) | Crypto trading and signaling bot with Telegram API integration | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
 | [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux development environment | 🔴 TODO |
