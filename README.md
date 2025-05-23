@@ -25,7 +25,7 @@
 - 📖 Learning Nuxt and Go at the moment.
 - 🎮 Enjoying recreational programming, such as trying out esolangs.
 - 💡 Interested in cybersecurity and systems programming.
-- ❄️ NixOS enjoyer, but also really enjoy using Arch (btw).
+- ❄️ NixOS enjoyer, but also enjoy using Arch (btw).
 
 <!-- Technologies -->
 <div id="user-content-toc">
