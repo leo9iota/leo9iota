@@ -59,7 +59,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,webstorm,datagrip,alacritty,bash,tmux,postman,markdown,obsidian&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,datagrip,alacritty,bash,tmux,postman,figma,markdown,obsidian&perline=10" />
   </a>
 </p>
 
