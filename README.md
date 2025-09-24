@@ -41,7 +41,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,go,rust,zig,c,cpp,holyc,godot,lua,python,react,nextjs,astro,vue,nuxt,bun,fiber,playwright,tailwindcss,shadcn,materialui,threejs,vite,drizzle,postgresql,mariadb,mongodb&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,vue,nuxt,svelte,hono,python,lua,go,rust,c,cpp,holyc,postgresql,redis,mongodb,godot,threejs,playwright,tailwindcss,shadcn,materialui,vite,drizzle,reactquery,turborepo&perline=10" />
   </a>
 </p>
 
