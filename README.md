@@ -79,6 +79,7 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
+| [Hot Reload](https://github.com/leo9iota/hot-reload) | Multiplayer rogue-like shooter game with pixel art style | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
 | [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool | 🟢 DONE |
