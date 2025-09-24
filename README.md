@@ -3,7 +3,7 @@
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
-        <img src="./images/hi.gif" alt="waving" width="40px"/>
+        <img src="./.github/images/pepe-hi.gif" alt="waving" width="40px"/>
         <span>Hello There!</span>
       </h1>
     </summary>
@@ -16,7 +16,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🗨️ About Me</span>
-        <img src="./images/thin-gradient-bar.png" />
+        <img src="./.github/images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -33,7 +33,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>✨ Technologies</span>
-        <img src="./images/thin-gradient-bar.png" />
+        <img src="./.github/images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -51,7 +51,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🛠️ Tools</span>
-        <img src="./images/thin-gradient-bar.png" />
+        <img src="./.github/images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
@@ -69,7 +69,7 @@
     <summary>
       <h2 style="list-style-type: none;">
         <span>🏗️ My Projects</span>
-        <img src="./images/thin-gradient-bar.png" />
+        <img src="./.github/images/thin-gradient-bar.png" />
       </h2>
     </summary>
   </ul>
