@@ -83,7 +83,7 @@
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
 | [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool | 🟢 DONE |
-| [Murderous Hack](https://github.com/leo9iota/murderous-hack) | HN-inspired forum for discussing tech related topics | 🟢 DONE |
+| [Sartre Forum](https://github.com/leo9iota/sartre-forum) | A forum for tech-related topics | 🟢 DONE |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟢 DONE |
 | [Trial Spoofer](https://github.com/leo9iota/trial-spoofer) | CLI utility for spoofing Linux system identifiers | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes) | Collection of themes for IDA Pro | 🟢 DONE |
