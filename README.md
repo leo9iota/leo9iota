@@ -79,6 +79,7 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
+| [Portfolio](https://www.leo9iota.dev/) | Personal dev portolio where I have projects and a blog | 🟢 DONE |
 | [Hot Reload](https://github.com/leo9iota/hot-reload) | Multiplayer rogue-like shooter game with pixel art style | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
@@ -93,7 +94,6 @@
 | [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
 | [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
-| [Portfolio](https://github.com/leo9iota/portfolio) | Personal portolio website where you can find my projects | 🟡 WIP |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux development environment | 🔴 TODO |
 | [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my Windows development environment | 🔴 TODO |
 | [Netscan](https://github.com/leo9iota/netscan) | Utility for scanning networks by utilizing Nmap and Npcap | 🔴 TODO |
