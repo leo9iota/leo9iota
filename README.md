@@ -90,6 +90,7 @@
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes) | Collection of themes for IDA Pro | 🟢 DONE |
 | [LMS](https://github.com/leo9iota/lms)| Learn management system for programming-related courses | 🟡 WIP |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the AOC problems implemented in different languages | 🟡 WIP |
+| [Leetcode](https://github.com/leo9iota/1337code)| My solutions for Leetcode implemented in mostly Python and C++ | 🟡 WIP |
 | [UI Components](https://github.com/leo9iota/ui-components) | Custom UI components that can be integrated into larger projects | 🟡 WIP |
 | [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
 | [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
