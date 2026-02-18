@@ -22,10 +22,10 @@
   </ul>
 </div>
 
-- 🚀 **Current Focus:** Deepening expertise in Go and Nuxt.js for scalable full-stack development.
-- ❄️ **Linux:** Advanced experience with reproducible builds and system configuration in NixOS and Arch.
-- 💡 **Technical Interests:** Passionate about systems programming and cybersecurity, specifically network security and system internals.
-- 🧩 **Recreational Programming:** Exploring esoteric languages and algorithm challenges to refine problem solving skills.
+- 🚀 **Focus**: Deepening expertise in Next.js and Nuxt.js for building scalable SaaS apps.
+- 💡 **Interests**: Passionate about systems programming and cybersecurity, specifically network security and reverse engineering.
+- ❄️ **Linux**: Advanced experience with reproducible builds and system configuration in NixOS and Arch.
+- 🧩 **Recreational**: Exploring esoteric languages and coding challenges to refine problem solving skills.
 
 <!-- Technologies -->
 <div id="user-content-toc">
@@ -41,7 +41,11 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,angular,nuxt,solidjs,astro,python,lua,go,rust,c,cpp,holyc,postgresql,redis,mongodb,godot,threejs,playwright,tailwindcss,shadcn,materialui,vite,drizzle,reactquery,turborepo&perline=10" />
+    <p align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,java,go,rust,c,cpp,holyc&perline=10" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,react,nextjs,nuxt,angular,solidjs,astro,threejs,tailwindcss,vite&perline=10" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,drizzle,bun,turborepo,playwright,mui,godot&perline=10" />
+    </p>
   </a>
 </p>
 
@@ -59,7 +63,8 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,datagrip,alacritty,bash,tmux,postman,figma,markdown,obsidian&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode,datagrip,alacritty,bash,tmux,postman,figma,markdown,obsidian&perline=10" />
   </a>
 </p>
 
@@ -77,27 +82,28 @@
 
 <div align="center">
 
-| Project | Description | Status |
-|:--------|:------------|:-------|
-| [Portfolio](https://www.leo9iota.dev/) | Personal dev portolio where I have projects and a blog | 🟢 DONE |
-| [Hot Reload](https://github.com/leo9iota/hot-reload) | Multiplayer rogue-like shooter game with pixel art style | 🟢 DONE |
-| [Pong](https://github.com/leo9iota/pong) | Clone of the classic Pong game in a retro pixel art style | 🟢 DONE |
-| [Space Defender](https://github.com/leo9iota/space-defender) | Clone of the classic Space Invader game in a modern art style | 🟢 DONE |
-| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader) | Web scraping and download utility for VueSchool | 🟢 DONE |
-| [Sartre Forum](https://github.com/leo9iota/sartre-forum) | A forum for tech-related topics | 🟢 DONE |
-| [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game | 🟢 DONE |
-| [Trial Spoofer](https://github.com/leo9iota/trial-spoofer) | CLI utility for spoofing Linux system identifiers | 🟢 DONE |
-| [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes) | Collection of themes for IDA Pro | 🟢 DONE |
-| [LMS](https://github.com/leo9iota/lms)| Learn management system for programming-related courses | 🟡 WIP |
-| [Advent of Code](https://github.com/leo9iota/advent-of-code)| My solutions for the AOC problems implemented in different languages | 🟡 WIP |
-| [Leetcode](https://github.com/leo9iota/1337code)| My solutions for Leetcode implemented in mostly Python and C++ | 🟡 WIP |
-| [UI Components](https://github.com/leo9iota/ui-components) | Custom UI components that can be integrated into larger projects | 🟡 WIP |
-| [Kurume UI](http://kurumeui.com/) | UI component library for Vue | 🟡 WIP |
-| [Cheatsheet](https://github.com/leo9iota/cheatsheet) | Personal cheatsheet and quick reference for various tech-related topics | 🟡 WIP |
-| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe) | Clone of the Tic-Tac-Toe game with 3 dimensions | 🟡 WIP |
-| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)| Dotfiles for my Linux development environment | 🔴 TODO |
-| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)| Dotfiles for my Windows development environment | 🔴 TODO |
-| [Netscan](https://github.com/leo9iota/netscan) | Utility for scanning networks by utilizing Nmap and Npcap | 🔴 TODO |
-| [Weather App](https://github.com/leo9iota/weather-app) | Weather app with a modern and mobile responsive design | 🔴 TODO |
+| Project                                                                    | Description                                                              | Status  |
+| :------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------ |
+| [Portfolio](https://www.leo9iota.dev/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
+| [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
+| [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
+| [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
+| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader)   | Web scraping and download utility for VueSchool learning platform        | 🟢 DONE |
+| [Sartre](https://github.com/leo9iota/sartre)                               | Forum for tech-related topics, inspired by Hacker News                   | 🟢 DONE |
+| [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
+| [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
+| [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
+| [LMS](https://github.com/leo9iota/lms)                                     | LMS for programming-related courses                                      | 🟡 WIP  |
+| [FinOps](https://github.com/leo9iota/finops)                               | FinOps project with Spring Boot and Angular                              | 🟡 WIP  |
+| [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
+| [UI Components](https://github.com/leo9iota/ui-components)                 | Custom UI components that can be integrated into larger projects         | 🟡 WIP  |
+| [Kurume UI](http://kurumeui.com/)                                          | UI component library for Vue                                             | 🟡 WIP  |
+| [Cheat Sheet](https://github.com/leo9iota/cheatsheet)                      | Personal cheat sheet and quick reference for various tech-related topics | 🟡 WIP  |
+| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🟡 WIP  |
+| [Weather App](https://github.com/leo9iota/weather-app)                     | Weather app with a modern and mobile responsive design                   | 🟡 WIP  |
+| [Leetcode](https://github.com/leo9iota/1337code)                           | My solutions for Leetcode implemented in mostly Python and C++           | 🟡 WIP  |
+| [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)               | Dotfiles for my Linux development environment                            | 🔴 TODO |
+| [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)           | Dotfiles for my Windows development environment                          | 🔴 TODO |
+| [Netscan](https://github.com/leo9iota/netscan)                             | Utility for scanning networks by utilizing Nmap and Npcap                | 🔴 TODO |
 
 </div>
