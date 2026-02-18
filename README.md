@@ -42,7 +42,7 @@
 <p align="center">
   <a>
     <p align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,java,go,rust,c,cpp,holyc&perline=10" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,java,python,go,rust,c,cpp&perline=10" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,react,nextjs,nuxt,angular,solidjs,astro,threejs,tailwindcss,vite&perline=10" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,drizzle,bun,turborepo,playwright,mui,godot&perline=10" />
     </p>
