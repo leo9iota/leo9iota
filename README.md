@@ -3,7 +3,7 @@
   <ul>
     <summary>
       <h1 style="list-style-type: none;">
-        <img src="./.github/images/pepe-hi.gif" alt="waving" width="40px"/>
+        <img src="./.github/images/hi.gif" alt="waving" width="40px"/>
         <span>Hello There!</span>
       </h1>
     </summary>
