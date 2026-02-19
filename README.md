@@ -42,9 +42,9 @@
 <p align="center">
   <a>
     <p align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,java,python,go,rust,c,cpp&perline=10" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,react,nextjs,nuxt,angular,solidjs,astro,threejs,tailwindcss,vite&perline=10" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,drizzle,bun,turborepo,playwright,mui,godot&perline=10" />
+      <img src="./.github/icons/technologies-1.svg" />
+      <img src="./.github/icons/technologies-2.svg" />
+      <img src="./.github/icons/technologies-3.svg" />
     </p>
   </a>
 </p>
@@ -63,8 +63,8 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows&perline=10" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode,datagrip,alacritty,bash,tmux,postman,figma,markdown,obsidian&perline=10" />
+    <img src="./.github/icons/tools-1.svg" />
+    <img src="./.github/icons/tools-2.svg" />
   </a>
 </p>
 
