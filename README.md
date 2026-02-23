@@ -94,7 +94,7 @@
 | [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
 | [Courseroad](https://github.com/leo9iota/courseroad)                       | Courseroad is a LMS for programming-related courses                      | 🟡 WIP  |
-| [FinOps](https://github.com/leo9iota/finops)                               | FinOps project with Spring Boot and Angular                              | 🟡 WIP  |
+| [IXIota](https://github.com/leo9iota/ixiota)                               | Payment gateway platform with Spring Boot and Angular                    | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
 | [UI Components](https://github.com/leo9iota/ui-components)                 | Custom UI components that can be integrated into larger projects         | 🟡 WIP  |
 | [Kurume UI](http://kurumeui.com/)                                          | UI component library for Vue                                             | 🟡 WIP  |
