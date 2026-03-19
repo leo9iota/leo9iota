@@ -101,7 +101,7 @@
 | [Cheat Sheet](https://github.com/leo9iota/cheatsheet)                      | Personal cheat sheet and quick reference for various tech-related topics | 🟡 WIP  |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🟡 WIP  |
 | [Weather App](https://github.com/leo9iota/weather-app)                     | Weather app with a modern and mobile responsive design                   | 🟡 WIP  |
-| [Leetcode](https://github.com/leo9iota/1337code)                           | My solutions for Leetcode implemented in mostly Python and C++           | 🟡 WIP  |
+| [1337Code](https://github.com/leo9iota/1337code)                           | My solutions for Leetcode implemented in mostly Python and C++           | 🟡 WIP  |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)               | Dotfiles for my Linux development environment                            | 🔴 TODO |
 | [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)           | Dotfiles for my Windows development environment                          | 🔴 TODO |
 | [Netscan](https://github.com/leo9iota/netscan)                             | Utility for scanning networks by utilizing Nmap and Npcap                | 🔴 TODO |
