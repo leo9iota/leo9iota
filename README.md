@@ -40,12 +40,8 @@
 </div>
 
 <p align="center">
-  <a>
-    <p align="center">
-      <img src="./.github/icons/technologies-1.svg" />
-      <img src="./.github/icons/technologies-2.svg" />
-      <img src="./.github/icons/technologies-3.svg" />
-    </p>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,java,py,go,rust,c,cpp,tauri,flutter,react,nextjs,nuxtjs,angular,solidjs,astro,prisma,tailwind,vite,postgres,mysql,mongo,redis,supabase,bun,elysia,playwright,godot&perline=10" />
   </a>
 </p>
 
@@ -62,9 +58,8 @@
 </div>
 
 <p align="center">
-  <a>
-    <img src="./.github/icons/tools-1.svg" />
-    <img src="./.github/icons/tools-2.svg" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,datagrip,arch,bash,tmux,postman,figma,md,obsidian&perline=10" />
   </a>
 </p>
 
