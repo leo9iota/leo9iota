@@ -88,7 +88,7 @@
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
 | [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
-| [Courseroad](https://github.com/leo9iota/courseroad)                       | Courseroad is a LMS for programming-related courses                      | 🟡 WIP  |
+| [Courseroad](https://www.courseroad.xyz/)                                  | Courseroad is a LMS for programming-related courses                      | 🟡 WIP  |
 | [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
 | [IXIota](https://github.com/leo9iota/ixiota)                               | Payment gateway platform with Spring Boot and Angular                    | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
