@@ -79,8 +79,8 @@
 
 | Project                                                                    | Description                                                              | Status  |
 | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------ |
-| [Portfolio](https://www.leo9iota.dev/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
-| [Blog](https://blog.leo9iota.dev/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
+| [Portfolio](https://www.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
+| [Blog](https://blog.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
 | [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
