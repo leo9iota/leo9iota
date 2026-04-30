@@ -80,20 +80,21 @@
 | Project                                                                    | Description                                                              | Status  |
 | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------ |
 | [Portfolio](https://www.leo9iota.dev/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
-| [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
-| [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
-| [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
-| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader)   | Web scraping and download utility for VueSchool learning platform        | 🟢 DONE |
-| [Sartre](https://github.com/leo9iota/sartre)                               | Forum for tech-related topics, inspired by Hacker News                   | 🟢 DONE |
+| [Blog](https://blog.leo9iota.dev/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
-| [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
+| [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
+| [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader)   | Web scraping and download utility for VueSchool learning platform        | 🟢 DONE |
+| [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
+| [Sartre](https://github.com/leo9iota/sartre)                               | Forum for tech-related topics, inspired by Hacker News                   | 🟢 DONE |
+| [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
+| [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
+| [Rin](https://github.com/leo9iota/rin)                                     | Rin is an EVM event indexer with a TUI and an embedded SurrealDB         | 🟡 WIP  |
 | [Courseroad](https://www.courseroad.xyz/)                                  | Courseroad is a LMS for programming-related courses                      | 🟡 WIP  |
 | [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
 | [IXIota](https://github.com/leo9iota/ixiota)                               | Payment gateway platform with Spring Boot and Angular                    | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
 | [UI Components](https://github.com/leo9iota/ui-components)                 | Custom UI components that can be integrated into larger projects         | 🟡 WIP  |
-| [Kurume UI](http://kurumeui.com/)                                          | UI component library for Vue                                             | 🟡 WIP  |
 | [Cheat Sheet](https://github.com/leo9iota/cheatsheet)                      | Personal cheat sheet and quick reference for various tech-related topics | 🟡 WIP  |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🟡 WIP  |
 | [Weather App](https://github.com/leo9iota/weather-app)                     | Weather app with a modern and mobile responsive design                   | 🟡 WIP  |
