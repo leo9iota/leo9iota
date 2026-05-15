@@ -22,10 +22,10 @@
   </ul>
 </div>
 
-- 🚀 **Focus**: Deepening expertise in Next.js and Nuxt.js for building scalable SaaS apps.
-- 💡 **Interests**: Passionate about systems programming and cybersecurity, specifically network security and reverse engineering.
-- ❄️ **Linux**: Advanced experience with reproducible builds and system configuration in NixOS and Arch.
-- 🧩 **Recreational**: Exploring esoteric languages and coding challenges to refine problem solving skills.
+- 🚀 **Focus**: Building scalable SaaS apps with Next.js and Nuxt.
+- 💡 **Interests**: Interested in systems programming and cybersecurity, specifically reverse engineering.
+- ❄️ **Linux**: Experience with reproducible builds and system configuration in NixOS and Arch.
+- 🧩 **Recreational**: Trying out eso-langs and doing coding challenges, such as AOC (in different langs).
 
 <!-- Technologies -->
 <div id="user-content-toc">
