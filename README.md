@@ -90,7 +90,6 @@
 | [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
 | [Rin](https://github.com/leo9iota/rin)                                     | Rin is an EVM event indexer with a TUI and an embedded SurrealDB         | 🟡 WIP  |
-| [Courseroad](https://www.courseroad.xyz/)                                  | Courseroad is a LMS for programming-related courses                      | 🟡 WIP  |
 | [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
 | [IXIota](https://github.com/leo9iota/ixiota)                               | Payment gateway platform with Spring Boot and Angular                    | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
