@@ -91,15 +91,12 @@
 | [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
 | [Rin](https://github.com/leo9iota/rin)                                     | Rin is an EVM event indexer with a TUI and an embedded SurrealDB         | 🟡 WIP  |
 | [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
-| [IXIota](https://github.com/leo9iota/ixiota)                               | Payment gateway platform with Spring Boot and Angular                    | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
 | [UI Components](https://github.com/leo9iota/ui-components)                 | Custom UI components that can be integrated into larger projects         | 🟡 WIP  |
 | [Cheat Sheet](https://github.com/leo9iota/cheatsheet)                      | Personal cheat sheet and quick reference for various tech-related topics | 🟡 WIP  |
 | [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🟡 WIP  |
-| [Weather App](https://github.com/leo9iota/weather-app)                     | Weather app with a modern and mobile responsive design                   | 🟡 WIP  |
 | [1337Code](https://github.com/leo9iota/1337code)                           | My solutions for LeetCode implemented in mostly Python and C++           | 🟡 WIP  |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)               | Dotfiles for my Linux development environment                            | 🔴 TODO |
 | [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)           | Dotfiles for my Windows development environment                          | 🔴 TODO |
-| [NetScan](https://github.com/leo9iota/netscan)                             | Utility for scanning networks by utilizing Nmap and Npcap                | 🔴 TODO |
 
 </div>
