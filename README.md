@@ -28,7 +28,7 @@
 - 🧩 **Recreational**: Trying out eso-langs and doing coding challenges, such as AOC (in different langs).
 
 <!-- Technologies -->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul>
     <summary>
       <h2 style="list-style-type: none;">
@@ -43,10 +43,10 @@
   <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,go,rust,c,cpp,python,lua,tauri,flutter,react,nextjs,nuxtjs,angular,solidjs,astro,prisma,vite,postgres,surrealdb,mysql,mongo,redis,supabase,bun,elysia,playwright,godot&perline=10" />
   </a>
-</p>
+</p> -->
 
 <!-- Tools -->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul>
     <summary>
       <h2 style="list-style-type: none;">
@@ -61,7 +61,7 @@
   <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,cloudflare,gcp,aws,linux,windows,neovim,vscode,datagrip,arch,bash,tmux,postman,figma,md,obsidian&perline=10" />
   </a>
-</p>
+</p> -->
 
 <!-- Projects -->
 <div id="user-content-toc">
