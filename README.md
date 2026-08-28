@@ -79,8 +79,6 @@
 
 | Project                                                                    | Description                                                              | Status  |
 | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------ |
-| [Portfolio](https://www.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
-| [Blog](https://blog.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟢 DONE |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
 | [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
@@ -89,6 +87,8 @@
 | [Sartre](https://github.com/leo9iota/sartre)                               | Forum for tech-related topics, inspired by Hacker News                   | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
+| [Portfolio](https://www.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟡 WIP  |
+| [Blog](https://blog.leo9iota.xyz/)                                         | Personal dev portfolio where I have projects and a blog                  | 🟡 WIP  |
 | [Rin](https://github.com/leo9iota/rin)                                     | Rin is an EVM event indexer with a TUI and an embedded SurrealDB         | 🟡 WIP  |
 | [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
