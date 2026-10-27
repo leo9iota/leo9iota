@@ -81,22 +81,22 @@
 | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------ |
 | [Darling in the Goland](https://github.com/leo9iota/darling-in-the-goland) | Clone of the classic Super Mario platformer game                         | 🟢 DONE |
 | [Hot Reload](https://github.com/leo9iota/hot-reload)                       | Multiplayer rogue-like shooter game with pixel art style                 | 🟢 DONE |
+| [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟢 DONE |
 | [IDA Pro Themes](https://github.com/leo9iota/ida-pro-themes)               | Collection and custom themes for IDA Pro                                 | 🟢 DONE |
 | [VueSchool Downloader](https://github.com/leo9iota/vueschool-downloader)   | Web scraping and download utility for VueSchool learning platform        | 🟢 DONE |
 | [Trial Spoofer](https://github.com/leo9iota/trial-spoofer)                 | CLI utility for spoofing Linux system identifiers                        | 🟢 DONE |
 | [Sartre](https://github.com/leo9iota/sartre)                               | Forum for tech-related topics, inspired by Hacker News                   | 🟢 DONE |
 | [Space Defender](https://github.com/leo9iota/space-defender)               | Clone of the classic Space Invader game in a modern art style            | 🟢 DONE |
 | [Pong](https://github.com/leo9iota/pong)                                   | Clone of the classic Pong game in a retro pixel art style                | 🟢 DONE |
-| [Portfolio](https://www.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🟡 WIP  |
-| [Blog](https://blog.leo9iota.xyz/)                                         | Personal dev portfolio where I have projects and a blog                  | 🟡 WIP  |
 | [Rin](https://github.com/leo9iota/rin)                                     | Rin is an EVM event indexer with a TUI and an embedded SurrealDB         | 🟡 WIP  |
-| [TTS MCP](https://github.com/leo9iota/tts-mcp)                             | Text-to-Speech MCP Server for Antigravity, Cursor, and Claude Code       | 🟡 WIP  |
 | [Advent of Code](https://github.com/leo9iota/advent-of-code)               | My solutions for the AOC problems implemented in different languages     | 🟡 WIP  |
 | [UI Components](https://github.com/leo9iota/ui-components)                 | Custom UI components that can be integrated into larger projects         | 🟡 WIP  |
 | [Cheat Sheet](https://github.com/leo9iota/cheatsheet)                      | Personal cheat sheet and quick reference for various tech-related topics | 🟡 WIP  |
-| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🟡 WIP  |
-| [1337Code](https://github.com/leo9iota/1337code)                           | My solutions for LeetCode implemented in mostly Python and C++           | 🟡 WIP  |
+| [Three-Tac-Toe](https://github.com/leo9iota/three-tac-toe)                 | Clone of the Tic-Tac-Toe game with 3 dimensions                          | 🔴 TODO |
+| [1337Code](https://github.com/leo9iota/1337code)                           | My solutions for LeetCode implemented in mostly Python and C++           | 🔴 TODO |
 | [Linux Dotfiles](https://github.com/leo9iota/linux-dotfiles)               | Dotfiles for my Linux development environment                            | 🔴 TODO |
 | [Windows Dotfiles](https://github.com/leo9iota/windows-dotfiles)           | Dotfiles for my Windows development environment                          | 🔴 TODO |
+| [Portfolio](https://www.leo9iota.xyz/)                                     | Personal dev portfolio where I have projects and a blog                  | 🔴 TODO |
+| [Blog](https://blog.leo9iota.xyz/)                                         | Personal dev portfolio where I have projects and a blog                  | 🔴 TODO |
 
 </div>
